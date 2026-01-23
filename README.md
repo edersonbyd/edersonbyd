@@ -2,9 +2,9 @@
 # Olá, me chamo Ederson ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- Estou procurando colaborar como front-end e automações usando n8n com AI ...
+- Estou procurando colaborar como front-end e automações.
 - Estou aprendendo ...
-  Php, Laravel, Apache, Docker, html, css, js e n8n.
+html, css, js, React js, Node js, TypeScripit e Tailwind.
 
 - Como entrar em contato comigo: ...
             <div>
