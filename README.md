@@ -4,7 +4,7 @@
 
 - Estou procurando colaborar como front-end e automações.
 - Estou aprendendo ...
-html, css, js, React js, Node js, TypeScripit e Tailwind.
+html, css, JavaScript, React js, Node js, TypeScripit e Tailwind.
 
 - Como entrar em contato comigo: ...
             <div>
